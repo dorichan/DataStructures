@@ -8,19 +8,37 @@ namespace BinarySearch
 {
     class Program
     {
-        static void CreateArray()
+        static int[] CreateArray()
         {
-            int[] bsArray = new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15};
+            int[] bsArray = new int[16];
+            Random random = new Random();
 
-            foreach (var i in bsArray)
+            for (int i = 0; i <= 15; i++)
             {
-                Console.WriteLine(i);
+                bsArray[i] = random.Next(1, 150);
             }
+            
+            return bsArray;
+        }
+
+        static void SortArray()
+        {
+
+        }
+
+        static void SearchArray()
+        {
+
         }
 
         static void Main(string[] args)
         {
-            CreateArray();
+            int[] testArray = CreateArray();
+
+            foreach (var i in testArray)
+            {
+                Console.WriteLine(i);
+            }
 
             var userInput = Console.ReadLine();
         }

@@ -6,3 +6,9 @@ G:\Programming Prompts\BinaryS\BinaryS\obj\Debug\BinaryS.pdb
 G:\Programming Prompts\DataStructures\BinarySearch\bin\Debug\BinaryS.exe.config
 G:\Programming Prompts\DataStructures\BinarySearch\obj\Debug\BinaryS.exe
 G:\Programming Prompts\DataStructures\BinarySearch\obj\Debug\BinaryS.pdb
+D:\Github\DataStructures\DataStructures\BinarySearch\bin\Debug\BinaryS.exe.config
+D:\Github\DataStructures\DataStructures\BinarySearch\obj\Debug\BinaryS.exe
+D:\Github\DataStructures\DataStructures\BinarySearch\obj\Debug\BinaryS.pdb
+D:\Github\DataStructures\DataStructures\BinarySearch\bin\Debug\BinaryS.exe
+D:\Github\DataStructures\DataStructures\BinarySearch\bin\Debug\BinaryS.pdb
+D:\Github\DataStructures\DataStructures\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
