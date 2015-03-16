@@ -1,0 +1,6 @@
+G:\Programming Prompts\DataStructures\LinkedList\bin\Debug\LinkedList.exe.config
+G:\Programming Prompts\DataStructures\LinkedList\bin\Debug\LinkedList.exe
+G:\Programming Prompts\DataStructures\LinkedList\bin\Debug\LinkedList.pdb
+G:\Programming Prompts\DataStructures\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+G:\Programming Prompts\DataStructures\LinkedList\obj\Debug\LinkedList.exe
+G:\Programming Prompts\DataStructures\LinkedList\obj\Debug\LinkedList.pdb

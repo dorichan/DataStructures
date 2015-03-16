@@ -1,0 +1,6 @@
+G:\Programming Prompts\BinaryS\BinaryS\bin\Debug\BinaryS.exe.config
+G:\Programming Prompts\BinaryS\BinaryS\obj\Debug\BinaryS.csprojResolveAssemblyReference.cache
+G:\Programming Prompts\BinaryS\BinaryS\bin\Debug\BinaryS.exe
+G:\Programming Prompts\BinaryS\BinaryS\bin\Debug\BinaryS.pdb
+G:\Programming Prompts\BinaryS\BinaryS\obj\Debug\BinaryS.exe
+G:\Programming Prompts\BinaryS\BinaryS\obj\Debug\BinaryS.pdb
