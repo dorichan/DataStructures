@@ -1,0 +1,6 @@
+/Users/dorichan/DataStructures/DataStructures/BinarySearch/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/dorichan/DataStructures/DataStructures/BinarySearch/bin/Debug/BinaryS.exe.config
+/Users/dorichan/DataStructures/DataStructures/BinarySearch/bin/Debug/BinaryS.exe.mdb
+/Users/dorichan/DataStructures/DataStructures/BinarySearch/bin/Debug/BinaryS.exe
+/Users/dorichan/DataStructures/DataStructures/BinarySearch/obj/Debug/BinaryS.exe
+/Users/dorichan/DataStructures/DataStructures/BinarySearch/obj/Debug/BinaryS.exe.mdb
